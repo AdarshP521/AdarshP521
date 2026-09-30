@@ -5,11 +5,11 @@
   <p><i>Crafting experiences at the intersection of design, code, and interactive technology.</i></p>
 
   <p>
-    <a href="https://linkedin.com/in/pandeyadarsh521"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/tech_fabyt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://www.youtube.com/@tech_fab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-    <a href="https://pandeyadarshyt.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:techfabyt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/pandeyadarsh521" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/tech_fabyt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.youtube.com/@tech_fab" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://pandeyadarshyt.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:techfabyt@gmail.com"><img src="https://img.shields.io/badge/Email-techfabyt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -84,14 +84,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshP521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/AdarshP521">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdarshP521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/AdarshP521">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <a href="https://github.com/AdarshP521">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  </a>
 </div>
 
 ---
@@ -99,7 +105,9 @@
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="97%" />
+  <a href="https://github.com/AdarshP521">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=tokyo-night&hide_border=true&area=true" alt="Adarsh's Activity Graph" width="97%" />
+  </a>
 </div>
 
 ---
