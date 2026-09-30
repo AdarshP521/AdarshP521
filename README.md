@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pandey Adarsh</h1>
-<h3 align="center">Hi, I’m Pandey Adarsh. A Software Developer || Computer Science & Engineering undergraduate at BIET Jhansi working at the intersection of design, code, and interactive technology.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshp521&label=Profile%20views&color=0e75b6&style=flat" alt="adarshp521" /> </p>
+<h3 align="center">A Software Developer || Computer Science & Engineering undergraduate at BIET Jhansi working at the intersection of design, code, and interactive technology.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshp521" alt="adarshp521" /></a> </p>
 
