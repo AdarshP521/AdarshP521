@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pandey Adarsh</h1>
 <h3 align="center">A Software Developer || Computer Science & Engineering undergraduate at BIET Jhansi working at the intersection of design, code, and interactive technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshp521" alt="adarshp521" /></a> </p>
-
 - 🔭 I’m currently working on **Open Source Connect India**
 
 - 🌱 I’m currently learning **GSAP & MYSQL**
 
-- 👨‍💻 All of my projects are available at [https://pandeyadarshyt.netlify.app/](https://pandeyadarshyt.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pandeyadarshyt.netlify.app/)
 
 - 📫 How to reach me **techfabyt@gmail.com**
 
