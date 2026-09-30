@@ -23,9 +23,9 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently Building:** Open Source Connect India
-- 🌱 **Currently Learning:** GSAP Animations & Advanced MySQL
-- 💬 **Ask Me About:** React, Next.js, UI/UX Design (Figma), and AI integrations
+- 🔭 **Currently Working:** Open Source Connect India
+- 🌱 **Currently Learning:** GSAP Animations & MySQL
+- 💬 **Ask Me About:** React, UI/UX Design (Figma), and AI integrations
 - ⚡ **Fun Fact:** I run a tech content channel with over 30M+ views!
 
 ---
