@@ -12,9 +12,9 @@
     <a href="mailto:techfabyt@gmail.com"><img src="https://img.shields.io/badge/Email-techfabyt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <!-- Visitor Counter -->
+  <!-- Reliable Visitor Counter -->
   <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdarshP521&count_bg=%2F7928CA&title_bg=%2F555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AdarshP521&color=7928ca&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -101,7 +101,7 @@
 
 <div align="center">
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=tokyo-night&hide_border=true&area=true" alt="Adarsh's Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=react-dark&hide_border=true&area=true" alt="Adarsh's Activity Graph" width="100%" />
   </a>
 </div>
 
