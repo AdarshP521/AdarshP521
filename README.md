@@ -9,7 +9,7 @@
     <a href="https://twitter.com/tech_fabyt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
     <a href="https://www.youtube.com/@tech_fab" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     <a href="https://pandeyadarshyt.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:techfabyt@gmail.com"><img src="https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:techfabyt@gmail.com"><img src="https://img.shields.io/badge/Emailstyle=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <!-- Reliable Visitor Counter -->
