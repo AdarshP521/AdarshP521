@@ -76,24 +76,14 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Open Source Connect India](#)** | Platform bringing together open-source contributors and developers across India. | React, Node.js, Tailwind |
-| **[Caption Wallah AI](#)** | AI-powered Web App generating contextual social media captions using Gemini API. | Next.js, Gemini API, Tailwind |
-| **[Gesture Virtual Keyboard](#)** | Computer vision system mapping hand movements to virtual inputs in real time. | Python, OpenCV, MediaPipe |
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdarshP521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdarshP521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
   </a>
 </div>
 
@@ -101,17 +91,17 @@
 
 <div align="center">
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   </a>
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contribution Activity
 
 <div align="center">
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=tokyo-night&hide_border=true&area=true" alt="Adarsh's Activity Graph" width="97%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=tokyo-night&hide_border=true&area=true" alt="Adarsh's Activity Graph" width="100%" />
   </a>
 </div>
 
