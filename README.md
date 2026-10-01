@@ -99,13 +99,14 @@
 
 <br />
 
-<!-- 🎖️ Google I/O '26 Badges -->
+<!-- 🎖️ Achievements & Certifications Badges -->
 <div align="center">
-  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_1.png" alt="Google I/O '26 - Make Build Unlock" width="18%" />
-  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_2.png" alt="Google I/O '26 - Solved Puzzle" width="18%" />
-  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_3.png" alt="Google I/O '26 - Code Brackets" width="18%" />
-  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_4.png" alt="Google I/O '26 - Hashtag Badge" width="18%" />
-  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_5.png" alt="Google I/O '26 - Trophy Badge" width="18%" />
+  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_1.png" alt="Google I/O '26 - Make Build Unlock" width="15%" />
+  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_2.png" alt="Google I/O '26 - Solved Puzzle" width="15%" />
+  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_3.png" alt="Google I/O '26 - Code Brackets" width="15%" />
+  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_4.png" alt="Google I/O '26 - Hashtag Badge" width="15%" />
+  <img src="https://io.google/2026/puzzle/media/images/share/share_asset_5.png" alt="Google I/O '26 - Trophy Badge" width="15%" />
+  <img src="tf-designs-canva-essentials-badge.jpg" alt="Canva Essentials Badge" width="15%" />
 </div>
 
 ---
