@@ -107,7 +107,6 @@
   <img src="https://io.google/2026/puzzle/media/images/share/share_asset_3.png" alt="Google I/O '26 - Code Brackets" width="15%" />
   <img src="https://io.google/2026/puzzle/media/images/share/share_asset_4.png" alt="Google I/O '26 - Hashtag Badge" width="15%" />
   <img src="https://io.google/2026/puzzle/media/images/share/share_asset_5.png" alt="Google I/O '26 - Trophy Badge" width="15%" />
-  <img src="https://raw.githubusercontent.com/AdarshP521/AdarshP521/main/tf-designs-canva-essentials-badge.jpg" alt="Canva Essentials Badge" width="15%" />
 </div>
 
 ---
