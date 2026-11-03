@@ -89,12 +89,7 @@
 ### 📊 // GitHub Analytics & Diagnostics
 
 <div align="center">
-  <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdarshP521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  </a>
+  <img src="https://metrics.lecoq.io/AdarshP521?template=classic&base.header=false&base.activity=true&base.community=true&base.repositories=true&base.metadata=false&emploi=2.8&languages=true&languages.limit=8&languages.colors=github&languages.details=bytes-size,percentage&config.timezone=Asia/Kolkata" alt="GitHub Metrics" width="100%" />
 </div>
 
 <br />
