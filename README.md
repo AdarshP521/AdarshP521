@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,40:17113B,100:0066FF&height=220&section=header&text=ADARSH%20PANDEY&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20TECHNOLOGIST&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
 
@@ -30,29 +31,65 @@
 
 ## ◈ ABOUT ME
 
-### Turning ideas into digital experiences.
+### Engineering ideas. Designing experiences. Building the future.
 
 </div>
 
-```yaml
-Name: Pandey Adarsh
-Role: Software Developer
-Education: B.Tech CSE @ BIET Jhansi
-Currently_Working: Open Source Connect India
-Currently_Learning:
-  - GSAP Animations
-  - MySQL
-Interests:
-  - Full Stack Development
-  - UI/UX & Product Design
-  - Artificial Intelligence
-  - Interactive Experiences
-Ask_Me_About:
-  - React
-  - Figma
-  - AI Integrations
-Fun_Fact: 30M+ views across my tech content journey!
-```
+<p align="center">
+I'm <strong>Pandey Adarsh</strong>, a Computer Science undergraduate at
+<strong>BIET Jhansi</strong> and a software developer passionate about
+building digital experiences that combine technology, creativity and design.
+</p>
+
+<p align="center">
+I enjoy transforming ideas into interactive products through frontend
+development, thoughtful UI/UX, and AI-powered solutions.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / CURRENTLY BUILDING
+
+🔭 Open Source Connect India
+
+### 02 / CURRENTLY EXPLORING
+
+🌱 GSAP Animations & MySQL
+
+### 03 / ASK ME ABOUT
+
+💬 React, Figma, UI/UX & AI Integrations
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / BEYOND DEVELOPMENT
+
+🎬 Tech Content Creation
+
+**30M+ Views** across my content journey.
+
+### 05 / AREAS OF INTEREST
+
+⚡ Full Stack Development
+
+🎨 UI/UX & Product Design
+
+🤖 Artificial Intelligence
+
+✨ Interactive Experiences
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Curiosity drives me. Creativity defines me. Code brings my ideas to life.*
+
+</div>
 
 ---
 
@@ -130,7 +167,7 @@ Fun_Fact: 30M+ views across my tech content journey!
 <br/><br/>
 
 <a href="https://github.com/AdarshP521">
-<img width="85%" src="https://streak-stats.demolab.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="85%" src="./profile/streak.svg" alt="Adarsh's GitHub Streak"/>
 </a>
 
 </div>
