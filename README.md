@@ -96,15 +96,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   </a>
 </div>
-
-<br />
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshP521&theme=react-dark&hide_border=true&area=true" alt="Adarsh's Activity Graph" width="100%" />
-  </a>
-</div>
