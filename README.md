@@ -86,21 +86,16 @@
 
 ---
 
-### 📊 // GitHub Analytics & Diagnostics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/AdarshP521?template=classic&base.header=false&base.activity=true&base.community=true&base.repositories=true&base.metadata=false&emploi=2.8&languages=true&languages.limit=8&languages.colors=github&languages.details=bytes-size,percentage&config.timezone=Asia/Kolkata" alt="GitHub Metrics" width="100%" />
-</div>
-
-<br />
+### 📊 // System Trophies & Telemetry
 
 <div align="center">
   <a href="https://github.com/AdarshP521">
-    <img src="https://streak-stats.demolab.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AdarshP521&theme=tokyonight&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" width="100%" />
   </a>
 </div>
 
 <br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=60,35,15,4,0&height=50&section=footer" width="100%"/>
 </div>
