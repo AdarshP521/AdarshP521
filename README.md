@@ -77,7 +77,6 @@
 </table>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -85,7 +84,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AdarshP521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adarsh's GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdarshP521&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
   </a>
 </div>
 
@@ -93,6 +92,6 @@
 
 <div align="center">
   <a href="https://github.com/AdarshP521">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    <img src="https://streak-stats.demolab.com/?user=AdarshP521&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
   </a>
 </div>
